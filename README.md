@@ -1,24 +1,12 @@
 # README
+* Ruby version:2.6.6  
+# active_adminを使った管理者画面の構築　
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### ・Userテーブルを作成。
 
-Things you may want to cover:
+### ・日本語表記に対応。
 
-* Ruby version
+### (作動方法)  
+コマンドで作動させるディレクトリに移動した後、```rails s```でサーバーを起動。　　
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[localhost:3000/admin]を検索。
